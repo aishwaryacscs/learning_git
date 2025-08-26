@@ -1,1 +1,2 @@
-print("hello world")
+a=aishu
+print("hello aishu")
